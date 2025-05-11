@@ -1276,8 +1276,4 @@ class CfgGlasses
 		ACE_DustPath="\z\ace\addons\goggles\textures\fx\dust\%1.paa";
 	};
 };
-class cfgMods
-{
-	author="prazv";
-	timepacked="1737075692";
-};
+
