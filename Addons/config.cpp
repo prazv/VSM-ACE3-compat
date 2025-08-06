@@ -4,7 +4,23 @@ class CfgPatches
 	{
 		author="prazv";
 		name="VSM ACE Compat";
-		requiredAddons[]={};
+		requiredAddons[]=
+		{
+			"ace_hearing",
+			"ace_common"
+			"VSM_HELMETS",
+			"VSM_Fast_config",
+			"VSM_OGA_Fix",
+			"Alpine_Vests_Config",
+			"AOR2_Vests_Config",
+			"Arid_Vests_Config",
+			"DTS_vests_Config",
+			"AOR2_Config",
+			"Black_vests_Config",
+			"VSM_Shemagh_config",
+			"VSM_Bowman_headsets",
+			"VSM_FaceMask_Config"
+		};
 		requiredVersion=0.1;
 		units[]={};
 	};
@@ -1276,4 +1292,5 @@ class CfgGlasses
 		ACE_DustPath="\z\ace\addons\goggles\textures\fx\dust\%1.paa";
 	};
 };
+
 
