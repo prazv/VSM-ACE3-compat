@@ -7,7 +7,7 @@ class CfgPatches
 		requiredAddons[]=
 		{
 			"ace_hearing",
-			"ace_common"
+			"ace_common",
 			"VSM_HELMETS",
 			"VSM_Fast_config",
 			"VSM_OGA_Fix",
@@ -1292,5 +1292,6 @@ class CfgGlasses
 		ACE_DustPath="\z\ace\addons\goggles\textures\fx\dust\%1.paa";
 	};
 };
+
 
 
